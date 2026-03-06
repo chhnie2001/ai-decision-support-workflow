@@ -1,0 +1,16 @@
+Monthly Performance Summary for Feb-26
+--------------------------------------------------
+Revenue: $151,000 (1.7% MoM)
+Orders: 2,940 (1.7% MoM)
+Customers: 2,075 (1.2% MoM)
+Average Order Value: $51.36
+Ad Spend as % of Revenue: 16.56%
+
+Key Insights:
+- Marketing spend grew faster than revenue, suggesting lower spend efficiency.
+- Customer growth is slowing and should be monitored.
+- Order growth is positive, but revenue growth is not keeping pace, suggesting weaker monetization.
+
+Suggested Actions:
+- Review paid acquisition channel efficiency and reallocate budget to higher-ROI campaigns.
+- Investigate acquisition funnel conversion and retention initiatives.
